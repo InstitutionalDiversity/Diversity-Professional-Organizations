@@ -12,8 +12,8 @@ Table of Contents
 - [Hispanic](#hispanic)
 - [Marginalized](#marginalized)
 
-## African American]
-- [Black Data Processing Associates (BDPA)]
+## African American
+- [Black Data Processing Associates (BDPA)] [www.bdpa.org]
 - [Black Retail Action Group Inc. (BRAG)]
 - [National Association of Black Journalists (NABJ)]
 - [National Bar Association (NAB)]
