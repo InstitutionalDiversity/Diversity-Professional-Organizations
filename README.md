@@ -10,17 +10,19 @@ Table of Contents
 - [African American](#african-american)
 - [Disabled](#disabled)
 - [Hispanic](#hispanic)
-- [Marginalized](#marginalized)
+- [Native American](#native-american)
+- [Diversity](#diversity)
+- [Women](#women)
 
 ## African American
-- [Black Data Processing Associates (BDPA)] [www.bdpa.org]
-- [Black Retail Action Group Inc. (BRAG)]
+- Black Data Processing Associates (BDPA) [www.bdpa.org]
+- Black Retail Action Group Inc. (BRAG)[bragusa.org]
 - [National Association of Black Journalists (NABJ)]
 - [National Bar Association (NAB)]
 - [National Black Law Students Association (NBLSA)]
 - [National Black MBA Associations]
 - [National Organization for the Professional Advancement of Black Chemists and Chemical Engineers (NOBCChE)]
-- [National Society of Black Engineers]
+- National Society of Black Engineers[https://www.nsbe.org/]
 - [Zeta Phi Beta Sorority Inc]
 
 ## Disabled
@@ -32,10 +34,13 @@ Table of Contents
 - [ALPFA (Association of Latino Professionals For America)]
 - [Latino Medical Student Association]
 - [National Latina/o Law Student Association]
-- [Society of Mexican American Engineers & Scientists (MAES)]
 - [The National Society of Hispanic MBAs]
 
-## Marginalized
+## Native American
+- [American Indian Science and Engineering Society (AISES)]
+- [National Native American Law Student Association]
+
+## Diversity
 - [Inroads Inc.]
 - [JumpStart Undergraduate Diversity Forum]
 - [Management Leadership for Tomorrow]
@@ -47,12 +52,12 @@ Table of Contents
 - [The National GEM Consortium]
 - [The PHD Project]
 - [Toigo Foundation]
-- [American Indian Science and Engineering Society (AISES)]
-- [National Native American Law Student Association]
 - [Society for the Advancement of Chicanos & Native Americans in Science (SACNAS)]
 - [American Corporate Partners]
-- [Accounting & Financial Women’s Alliance]
-- [American Association of University Women (AAUW)]
+
+## Women
+- Accounting & Financial Women’s Alliance [www.afwa.org]
+- American Association of University Women (AAUW)[www.aauw.org]
 - [Forte Foundation]
 - [IEEE Women in Engineering]
 - [National Association of Women MBAs]
