@@ -1,6 +1,6 @@
-# Diversity-Conferences List
+#  Professional Student Organizations List
 
- Professional Student Organizations Diversity
+Professional Student Organizations Diversity
 
 _If you would like to add any Twitter feeds or corrections please submit a pull request_
 
